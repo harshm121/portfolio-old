@@ -1,0 +1,35 @@
+title: "Harsh Maheshwari"
+author: "Harsh Maheshwari"
+description: ""
+markdown: "kramdown"
+more: "read more »"
+url: "https://harshm121.github.io/"
+# baseurl: ""
+paginate: 2
+permalink: pretty
+excerpt_separator: "\n\n\n" # two blank lines
+
+style:
+  minimalist: false
+  dark: false
+
+navigation:
+  - about.md
+  - Projects/about.md
+  - blog.html
+  # - about.md
+
+# comments:
+#   disqus: "disqus-contrast"
+# #  isso: "comments.mysite.org"
+
+links: # see http://fontawesome.io/icons/#brand for all possible icons
+  - linkedin: "https://www.linkedin.com/in/harsh-maheshwari-650039110/"
+  - github: "https://github.com/harshm121/"
+  - envelope: "mailto:harshm121@gmail.com"
+  - file: "HarshMaheshwari_CV.pdf"
+  - facebook: "https://www.facebook.com/harshrmaheshwari/"
+
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
+sass: {style: expanded}
+plugins: [jekyll-feed, jekyll-paginate]
