@@ -16,7 +16,7 @@ style:
 navigation:
   - index.md
   - Projects/index.md
-  - blog.html
+  - Blog/index.md
   # - about.md
 
 # comments:
