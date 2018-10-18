@@ -27,7 +27,7 @@ links: # see http://fontawesome.io/icons/#brand for all possible icons
   - linkedin: "https://www.linkedin.com/in/harsh-maheshwari-650039110/"
   - github: "https://github.com/harshm121/"
   - envelope: "mailto:harshm121@gmail.com"
-  - file: "HarshMaheshwari_CV.pdf"
+  - file: "/HarshMaheshwari_CV.pdf"
   - facebook: "https://www.facebook.com/harshrmaheshwari/"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
