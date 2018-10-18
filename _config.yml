@@ -14,8 +14,8 @@ style:
   dark: false
 
 navigation:
-  - about.md
-  - Projects/about.md
+  - index.md
+  - Projects/index.md
   - blog.html
   # - about.md
 
