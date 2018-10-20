@@ -12,7 +12,7 @@ Apart from academics, mathematics and machine learning I like following things:
 	3. Boyhood
 
 - Documentaries
-	1. Earthlings (Please do take out some time and watch this one)
+	1. Earthlings (Do take out some time and watch this one)
 	2. Before the flood
 
 - Youtube channels (You should definitely check them out)

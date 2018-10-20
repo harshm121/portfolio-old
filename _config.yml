@@ -29,7 +29,7 @@ links: # see http://fontawesome.io/icons/#brand for all possible icons
   - github: "https://github.com/harshm121/"
   - envelope: "mailto:harshm121@gmail.com"
   # - file: "/HarshMaheshwari_CV.pdf"
-  - facebook: "https://www.facebook.com/harshrmaheshwari/"
+  # - facebook: "https://www.facebook.com/harshrmaheshwari/"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
