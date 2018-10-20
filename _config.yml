@@ -20,7 +20,7 @@ navigation:
   - Interests/index.md
   - Resume/index.md
   links:
-    -file: "/HarshMaheshwari_CV.pdf"
+    - file: "/HarshMaheshwari_CV.pdf"
 
 # comments:
 #   disqus: "disqus-contrast"
