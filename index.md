@@ -1,8 +1,9 @@
 ---
 title: "Home"
 ---
-### Last updated in 2019 
 ## Hello! 
+
+### Last updated in 2019 
 
 Hi, I am a final year undergraduate student studying at Indian Institute of Technology, Delhi.
 I am interested in Machine Learning (both theory and its application) and strongly believe that technology benefits human society. I believe that there are much more important things we can solve using machine learning rather than increasing clicks on advertisements.
