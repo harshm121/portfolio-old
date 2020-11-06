@@ -10,6 +10,7 @@ I am a Data Scientist at Flipkart. I work with the Recommenations team supervise
 Since March 2020, I have also been volunteering my time with [DSIndiaVsCovid](http://dsindiavscovid.org/). We are working on COVID-19 case count forecasting for heavily impacted cities using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. We are also working on a control framework to guide public health agencies in creating a policy schedule to control an epidemic. 
 
 
+
 Broadly my interest lies in Machine Learning (both theory and its application) and Computer Vision. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
 Check out the projects I have done [here](http://harshm121.github.io/Projects).
