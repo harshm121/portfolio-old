@@ -1,3 +1,7 @@
+---	---
+title: "Home"	title: "Home"
+---	---
+
 ## Hello!
 
 <img style="float:left;padding:20px;"
