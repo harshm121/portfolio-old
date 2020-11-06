@@ -6,7 +6,7 @@ title: "Home"
 ## Hello! 
 
 <img style="float:right;padding:20px;"
-src="/image/personal-photo-round.jpg" alt="profile picture" width="230" height="300">
+src="/image/personal-photo.png" alt="profile picture" width="230" height="300">
 
 Hi, I am a final year undergraduate student studying at Indian Institute of Technology, Delhi.
 I am interested in Machine Learning (both theory and its application) and strongly believe that technology benefits human society. I believe that there are much more important things we can solve using machine learning rather than increasing clicks on advertisements.
