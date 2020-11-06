@@ -1,20 +1,40 @@
 ---
 title: "Home"
 ---
-### Last updated in 2019 
+### Not Updated
 
 ## Hello! 
 
-<img style="float:right;padding:20px;"
-src="/images/personal-photo.png" alt="profile picture" width="230" height="300">
+<img style="float:left;padding:20px;"
+src="./images/personal-photo.png" alt="profile picture" width="330">
+I am currently a Data Scientist at Flipkart. I work with the Recommenations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/), where I work on various Candidate Generation and Ranking problems. Prior to joining Flipkart, I was an undergrad student at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
 
-Hi, I am a final year undergraduate student studying at Indian Institute of Technology, Delhi.
-I am interested in Machine Learning (both theory and its application) and strongly believe that technology benefits human society. I believe that there are much more important things we can solve using machine learning rather than increasing clicks on advertisements.
 
-Check out the projects I have done [here](http://harshm121.github.io/Projects). I did my internship at [Videoken](https://videoken.com). They are pretty amazing people determined to change the way we watch videos, you should check out there work.
+Since March 2020, I have also been volunteering my time with [DSIndiaVsCovid](http://dsindiavscovid.org/). We are working on COVID-19 case count forecasting for heavily impacted cities using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. We are also working on a control framework to guide public health agencies in creating a policy schedule to control an epidemic. 
 
-In my free time I mostly surf Youtube, there are some interesting (and nerdy) channels which produce awesome content. I also like watching (and reading) biographies and documentaries. I am a huge Google fan and admire the philosophies they have as a company and also I hate facebook as I believe behind their 'on paper' motive to "connect people" they have some shitty morals and are ruining lives slowly and steadily.
 
-These are some very strong opinions but I am always up for discussing on these topics. I can spend hours debating and/or discussing philosophy, technology and both (:P)
+Broadly my interest lies in Machine Learning (both theory and its application) and Computer Vision. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
-Feel free to contact me at [harshm121@gmail.com](mailto:harshm121@gmail.com) or using any social media links above. 
+Check out the projects I have done [here](http://harshm121.github.io/Projects).
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Personal Interests**: In my free time I mostly surf Youtube, there are some interesting channels which produce awesome content. I also like watching (and reading) biographies and documentaries. I can spend hours debating and/or discussing philosophy, technology
+
+
+
+**Contact**: Feel free to contact me at [harshm121@gmail.com](mailto:harshm121@gmail.com) or using any social media links above. 
+
+
+
+**Publications**: <To be update> 
