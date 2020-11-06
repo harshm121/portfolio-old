@@ -1,4 +1,4 @@
-## Hello! 
+## Hello!
 
 <img style="float:left;padding:20px;"
 src="./images/personal-photo.png" alt="profile picture" width="280">
