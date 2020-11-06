@@ -6,7 +6,7 @@ title: "Articles"
 
 
 
-1. A medium article explaining one of the ICLR'17 Best Paper Award paper: [Paper explained: “UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION” — ICLR’17](https://harshm121.medium.com/paper-explained-understanding-deep-learning-requires-rethinking-generalization-iclr17-939a89096ab7)
+1. A medium article explaining one of the papers which received ICLR'17 Best Paper Award : [Paper explained: “UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION” — ICLR’17](https://harshm121.medium.com/paper-explained-understanding-deep-learning-requires-rethinking-generalization-iclr17-939a89096ab7)
 
 2. My thoughts on how Social Media is affecting politics: [Social Media — An Echo Chamber for politics](https://harshm121.medium.com/social-media-an-echo-chamber-for-politics-a753763d9a9c)
 
