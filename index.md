@@ -13,8 +13,10 @@ Since March 2020, I have also been volunteering my time with [DSIndiaVsCovid](ht
 
 Broadly my interest lies in Machine Learning (both theory and its application) and Computer Vision. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
-Check out the projects I have done [here](http://harshm121.github.io/Projects).
-
+**Publications**:
+1. Shreyas S\*, **Harsh Maheshwari}\***, Avijit Saha\*, Samik Datta\*, Shashank Jain, Disha Makhija, Anuj Nagpal, Sneha Shukla, Suyash S, "Audience Creation for Consumables - Simple and Scalable Precision Merchandising for a Growing Marketplace", Submitted to ICDE 2021 [preprint: To be released soon]
+2. **Harsh Maheshwari\***, Shreyas Shetty\*, Nayana Bannur, Srujana Merugu, "CoSIR: Managing and Epidemic via Optimal Adaptive Control of Transmission Policy", [preprint: To be released soon]
+3. Nayana Bannur, **Harsh Maheshwari**, Sansiddh Jain, Shreyas Shetty, Srujana Merugu, Alpan Raval, "Adaptive COVID-19 Forecasting via Bayesian Optimization", in CoDS-COMAD 2021 [paper](doi.org/10.1101/2020.10.19.20215293)
 
 
 
@@ -27,4 +29,4 @@ Check out the projects I have done [here](http://harshm121.github.io/Projects).
 
 
 
-**Publications**: <To be update> 
+
