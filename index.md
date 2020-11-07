@@ -1,30 +1,9 @@
 ---
 title: "Home"
 ---
-<style>
-.collapsible {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
 
-.active, .collapsible:hover {
-  background-color: #555;
-}
 
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-</style>
+
 
 <img style="float:left;padding:20px;"
 src="./images/personal-photo.png" alt="profile picture" width="30%">
@@ -36,7 +15,8 @@ Since March 2020, I have also been volunteering my time with [DSIndiaVsCovid](ht
 
 
 Broadly my interest lies in Machine Learning (both theory and its application) and Computer Vision. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
-<script type="text/javascript" src="js/hidebib.js"></script>
+
+
 ## **Publications**:
 
 **\* Equal Contribution first authors**
@@ -52,12 +32,6 @@ Accurate forecasts of infections for localized regions are valuable for policy m
 </p>
 </div>
 </details>
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-
 **Personal Interests**: In my free time I mostly surf Youtube, there are some interesting channels which produce awesome content. I also like watching (and reading) biographies and documentaries. I can spend hours debating and/or discussing philosophy, technology
 
 
