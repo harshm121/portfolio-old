@@ -41,7 +41,7 @@ Shreyas S\*, **Harsh Maheshwari\***, Avijit Saha\*, Samik Datta\*, Shashank Jain
 Nayana Bannur, **Harsh Maheshwari**, Sansiddh Jain, Shreyas Shetty, Srujana Merugu, Alpan Raval, "Adaptive COVID-19 Forecasting via Bayesian Optimization", in CoDS-COMAD 2021 \[[paper](https://doi.org/10.1101/2020.10.19.20215293)\]
 <details><summary>Abstract</summary>
 <div>
-<p style="background-color:black; font-size: 12px;"> 
+<p style="background-color:black; font-size: 13.5px;"> 
 <i>Accurate forecasts of infections for localized regions are valuable for policy making and medical capacity planning. Existing compartmental and agent-based models for epidemiological forecasting employ static parameter choices and cannot be readily contextualized, while adaptive solutions focus primarily on the reproduction number. In the current work, we propose a novel model-agnostic Bayesian optimization approach for learning model parameters from observed data that generalizes to multiple application-specific fidelity criteria. Empirical results demonstrate the efficacy of the proposed approach with SEIR-like compartmental models on COVID-19 case forecasting tasks. A city-level forecasting system based on this approach is being used for COVID-19 response in a few highly impacted Indian cities.</i>
 </p>
 </div>
