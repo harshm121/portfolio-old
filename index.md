@@ -19,7 +19,8 @@ Broadly my interest lies in Machine Learning (both theory and its application) a
 
 ## **Publications**:
 
-**\* Equal Contribution first authors**
+**\* Equal Contribution** 
+
 Shreyas S\*, **Harsh Maheshwari\***, Avijit Saha\*, Samik Datta\*, Shashank Jain, Disha Makhija, Anuj Nagpal, Sneha Shukla, Suyash S, "Audience Creation for Consumables - Simple and Scalable Precision Merchandising for a Growing Marketplace", Submitted to ICDE 2021 [preprint: To be released soon]
 <details><summary>Abstract</summary>
 <div>
