@@ -29,7 +29,7 @@ Broadly my interest lies in Machine Learning (both theory and its application) a
 </p>
 </div>
 </details>
-
+<br>
 
 (2) **Harsh Maheshwari\***, Shreyas Shetty\*, Nayana Bannur, Srujana Merugu, "CoSIR: Managing and Epidemic via Optimal Adaptive Control of Transmission Policy", [preprint: To be released soon]
 <details><summary>Abstract</summary>
@@ -39,7 +39,7 @@ Broadly my interest lies in Machine Learning (both theory and its application) a
 </p>
 </div>
 </details>
-
+<br>
 
 (3) Nayana Bannur, **Harsh Maheshwari**, Sansiddh Jain, Shreyas Shetty, Srujana Merugu, Alpan Raval, "Adaptive COVID-19 Forecasting via Bayesian Optimization", in CoDS-COMAD 2021 \[[paper](https://doi.org/10.1101/2020.10.19.20215293)\]
 <details><summary>Abstract</summary>
@@ -50,7 +50,7 @@ Broadly my interest lies in Machine Learning (both theory and its application) a
 </div>
 </details>
 
-
+<br>
 **Personal Interests**: In my free time I mostly surf Youtube, there are some interesting channels which produce awesome content. I also like watching (and reading) biographies and documentaries. I can spend hours debating and/or discussing philosophy, technology
 
 
