@@ -11,21 +11,18 @@ Since March 2020, I have also been volunteering my time with [DSIndiaVsCovid](ht
 
 
 Broadly my interest lies in Machine Learning (both theory and its application) and Computer Vision. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
-
+<script type="text/javascript" src="js/hidebib.js"></script>
 ## **Publications**:
 Shreyas S\*, **Harsh Maheshwari\***, Avijit Saha\*, Samik Datta\*, Shashank Jain, Disha Makhija, Anuj Nagpal, Sneha Shukla, Suyash S, "Audience Creation for Consumables - Simple and Scalable Precision Merchandising for a Growing Marketplace", Submitted to ICDE 2021 [preprint: To be released soon]
 
 **Harsh Maheshwari\***, Shreyas Shetty\*, Nayana Bannur, Srujana Merugu, "CoSIR: Managing and Epidemic via Optimal Adaptive Control of Transmission Policy", [preprint: To be released soon]
 
 Nayana Bannur, **Harsh Maheshwari**, Sansiddh Jain, Shreyas Shetty, Srujana Merugu, Alpan Raval, "Adaptive COVID-19 Forecasting via Bayesian Optimization", in CoDS-COMAD 2021 \[[paper](https://doi.org/10.1101/2020.10.19.20215293)\]
-<details><summary>Abstract</summary>v2 Accurate forecasts of infections for localized regions are valuable for policy making and medical capacity planning. Existing compartmental and agent-based models  for epidemiological forecasting employ static parameter choices and cannot be readily contextualized, while adaptive solutions focus primarily on the reproduction number. In the current work, we propose a novel model-agnostic Bayesian optimization approach for learning model parameters from observed data that generalizes to multiple application-specific fidelity criteria. Empirical results demonstrate the efficacy of the proposed approach with SEIR-like compartmental models on COVID-19 case forecasting tasks. A city-level forecasting system based on this approach is being used for COVID-19 response in a few highly impacted Indian cities.</details>
-
- <script type="text/javascript" src="js/hidebib.js"></script>
 <div class="paper" id="lps">
-        <a href="javascript:toggleblock('lpsabs')">abstract</a> /
-        <a href="https://ieeexplore.ieee.org/abstract/document/8970257" target="_blank">paper</a> /
-        <a href="https://arxiv.org/pdf/2003.13991.pdf" target="_blank">arxiv</a>
-        <p align="justify"> <i id="lpsabs">The  Global  Navigation  Satellite  .</p>
+        [<a href="javascript:toggleblock('lpsabs')">abstract</a>]
+        [<a href="https://doi.org/10.1101/2020.10.19.20215293">paper</a>]
+        <p align="justify"> <i id="lpsabs">V3 Accurate forecasts of infections for localized regions are valuable for policy making and medical capacity planning. Existing compartmental and agent-based models  for epidemiological forecasting employ static parameter choices and cannot be readily contextualized, while adaptive solutions focus primarily on the reproduction number. In the current work, we propose a novel model-agnostic Bayesian optimization approach for learning model parameters from observed data that generalizes to multiple application-specific fidelity criteria. Empirical results demonstrate the efficacy of the proposed approach with SEIR-like compartmental models on COVID-19 case forecasting tasks. A city-level forecasting system based on this approach is being used for COVID-19 response in a few highly impacted Indian cities. </p>
+ </div>
           
           
 **\* Equal Contribution first authors**
