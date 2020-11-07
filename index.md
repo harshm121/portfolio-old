@@ -19,6 +19,16 @@ Broadly my interest lies in Machine Learning (both theory and its application) a
  Accurate forecasts of infections for localized regions are valuable for policy making and medical capacity planning. Existing compartmental and agent-based models  for epidemiological forecasting employ static parameter choices and cannot be readily contextualized, while adaptive solutions focus primarily on the reproduction number. In the current work, we propose a novel model-agnostic Bayesian optimization approach for learning model parameters from observed data that generalizes to multiple application-specific fidelity criteria. Empirical results demonstrate the efficacy of the proposed approach with SEIR-like compartmental models on COVID-19 case forecasting tasks. A city-level forecasting system based on this approach is being used for COVID-19 response in a few highly impacted Indian cities.
 </details>]\]
 
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 **\* Equal Contribution first authors**
 
 
