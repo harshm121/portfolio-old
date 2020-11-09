@@ -22,10 +22,12 @@ src="./ctl_example.jpeg" alt="CTL Example" width="10%">
 	-**Complete The Look**,	(Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya) 
 		To recommend fashion-compatible outfits given a 'parent' product.  \[[More details](CTL.md)\]
 		
-		
+	
+	<img style="float:left;padding:10px;"
+src="./supermart-banner.png" alt="supermart banner" width="10%">
 	-**Audience Creation for Consumables**,	(Samik Datta)
-		-*Problem Statement:* Given a store and past purchases of the users, create an audience of required size ordered with the probabilty of puchase
-		-*Work Description:* Consumables (grocery products like Sugar, Ketchup) have periodicity in their purchases. We tried to model this periodicity with a temporal point process and evaluated the method against state of the art baselines using carefully designed experiments and online A\B tests. The technical report is under review at ICDE 2021 Industrial track. [prepreint: to be released soon]
+		Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. \[[More details](supermart.md)\] \[[prepreint: to be released soon]\]
+		
 		
 	-**Candidate Generation and Ranking**, (Samik Datta, Dr. Adtiya Rachakonda)
 		-*Work Description:* Customized **Bayesian Personalised Ranking** based Matrix Factorisation framework for Flipkart homepage recommendation (improvement in clicks by 2 bps on Flipkart homepage, currently in larger A/B testing phase) and designed multiple Lamda MART & LR based rankers for Flipkart home and product page.
