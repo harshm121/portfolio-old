@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 ---
+
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2QHSF0Q5FG"></script>
@@ -13,7 +14,60 @@ title: "Projects"
 </script>
 </head>
 
-## Projects
+/* tell the container's children to float left: */
+.float-my-children > * {
+    float:left;
+    margin-right:5px;
+}
+
+/* this is called a clearfix. it makes sure that the container's children floats are cleared, without using extra markup */
+
+.clearfix {
+    *zoom:1 /* for IE */
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/* end clearfix*/
+
+/* below is just to make things easier to see, not required */
+body > div {
+    border:1px dashed red;
+    margin-bottom:10px;    
+}
+
+
+
+## Projects v1
+
+<div class="clearfix float-my-children">
+   <img src='./ctl_example.jpeg' width=20%>
+   <div>some text here</div>
+</div>
+
+<div class="clearfix float-my-children">
+   <img src='./ctl_example.jpeg' width=20%>
+   <div>some text here</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+---
 1. Data Scientist at Flipkart v2
 	- [ctl example]('./ctl_example.jpeg')
 	**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
