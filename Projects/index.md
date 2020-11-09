@@ -14,20 +14,17 @@ title: "Projects"
 </head>
 
 ## Projects
-- Data Scientist at Flipkart v2
-1. <img align="left" style="padding:10px;"
-  src="./ctl_example.jpeg" alt="CTL Example" width="20%">
-
-  - **Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
-    To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
-<br>
-<br>
-<br>
-<br>
-<br>
+1. Data Scientist at Flipkart v2
+	- [ctl example]('./ctl_example.jpeg')
+	**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
+	To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
+	
+	- [ctl example]('./ctl_example.jpeg')
+	**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
+	To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
 
 
-2. <img align="left" style="padding:10px;"
+ <img align="left" style="padding:10px;"
   src="./ctl_example.jpeg" alt="CTL Example" width="20%">
 
   - **Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
