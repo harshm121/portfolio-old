@@ -14,7 +14,7 @@ title: "Projects"
 </head>
 
 ## Projects
-- Data Scientist at Flipkart
+- Data Scientist at Flipkart v1
 1. <img align="left" style="padding:10px;"
   src="./ctl_example.jpeg" alt="CTL Example" width="20%">
 
