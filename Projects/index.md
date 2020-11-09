@@ -17,8 +17,31 @@ title: "Projects"
 
 
 
-## Projects v11
+## Projects v12
 
+<table style="width:100%">
+  <tr>
+    <th><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="15%"></th>
+    <th>**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
+To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]</th> 
+  </tr>
+	
+	
+  <tr>
+    <th><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="15%"></th>
+    <th>**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
+To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]</th> 
+  </tr>
+  
+</table>
+
+</body>
+</html>
+
+
+
+
+---
 1. Data Scie at Fkart
 - | ![tp](ctl_example.jpeg) 	| **Complete the look**: it is a good project 	|
 |:--------------------:	|:-------------------------------------------:	|
