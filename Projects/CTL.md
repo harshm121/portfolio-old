@@ -1,6 +1,6 @@
 ## Complete The Look
 
-<img style="float:centre" src="ctl_example.jpeg" alt="CTL example" width="30%">
+<img align="center" src="https://harshm121.github.io/Projects/ctl_example.jpeg" alt="CTL example" width="30%">
 <em>An example of Complete the look recommendation</em>
 
 
