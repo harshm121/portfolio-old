@@ -15,7 +15,7 @@ title: "Projects"
 
 ## Projects
 
-1. Data Scientist, [Flipkart](https://www.flipkart.com/) (Supervised by Dr. Arnab Bhattacharya, Dr. Aditya Rachakonda, Samik Datta) \
+1. Data Scientist, [Flipkart](https://www.flipkart.com/) (Supervised by Dr. Arnab Bhattacharya, Dr. Aditya Rachakonda, Samik Datta) <br>
 
 	- <img style="float:left;padding:10px;"
 src="./ctl_example.jpeg" alt="CTL Example" width="20%">
