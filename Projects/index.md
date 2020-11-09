@@ -25,6 +25,8 @@ src="./ctl_example.jpeg" alt="CTL Example" width="20%">
 	<br>
 	<br>
 	
+	
+	
 	- <img style="float:left;padding:10px;"
 src="./supermart-banner.png" alt="supermart banner" width="20%">
 		* **Audience Creation for Consumables**,	(Samik Datta)
