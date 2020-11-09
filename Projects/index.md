@@ -19,23 +19,25 @@ title: "Projects"
 
 
 
-## Projects v4
+## Projects v5
 
-1. Data Scientist at Flipkart v2
-<div>
+1. Data Scientist at Flipkart
  <img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="20%">
 - **Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
 To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
+<br>
+<br>
+<br>
+<br>
 
-</div>
 
-<div>
-<img align="left" style="padding:10px;" src="./supermart-banner.png" alt="supermart banner" width="20%">
+<img align="left" style="padding:10px;" src="./supermart.png" alt="supermart banner" width="20%">
 **Audience Creation for Consumables**,	(Samik Datta)
     Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. \[[More details](supermart.md)\] \[[prepreint: to be released soon]\]
-
-</div>
-
+<br>
+<br>
+<br>
+<br>
 
 3. **Candidate Generation and Ranking**, (Samik Datta, Dr. Adtiya Rachakonda)
    -*Work Description:* Customized **Bayesian Personalised Ranking** based Matrix Factorisation framework for Flipkart homepage recommendation (improvement in clicks by 2 bps on Flipkart homepage, currently in larger A/B testing phase) and designed multiple Lamda MART & LR based rankers for Flipkart home and product page.
