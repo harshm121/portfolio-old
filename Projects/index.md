@@ -19,6 +19,15 @@ title: "Projects"
 
 ## Projects v11
 
+1. Data Scie at Fkart
+- | ![tp](ctl_example.jpeg) 	| **Complete the look**: it is a good project 	|
+|:--------------------:	|:-------------------------------------------:	|
+
+- | ![tp](supermart.png) 	| **Complete the look**: it is a good project 	|
+|:--------------------:	|:-------------------------------------------:	|
+
+
+---
 1. Data Scientist at Flipkart
 
 	- <img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="15%">
