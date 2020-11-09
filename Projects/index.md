@@ -15,17 +15,19 @@ title: "Projects"
 
 ## Projects
 
-1. Data Scientist, [Flipkart](https://www.flipkart.com/) (Supervised by Dr. Arnab Bhattacharya, Dr. Aditya Rachakonda, Samik Datta) <br>
-
-	- <img style="float:left;padding:10px;"
+1. <img style="float:left;padding:10px;"
 src="./ctl_example.jpeg" alt="CTL Example" width="20%">
-		* **Complete The Look**,	(Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya) 
+		* **Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
 		<br>
 		To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
 	<br>
----
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	
-	- <img style="float:left;padding:10px;"
+2.  <img style="float:left;padding:10px;"
 src="./supermart-banner.png" alt="supermart banner" width="20%">
 		* **Audience Creation for Consumables**,	(Samik Datta)
 	<br>
