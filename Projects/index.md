@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet"></link> 
 ---
 title: "Projects"
 ---
@@ -14,39 +15,10 @@ title: "Projects"
 </script>
 </head>
 
-/* tell the container's children to float left: */
-.float-my-children > * {
-    float:left;
-    margin-right:5px;
-}
-
-/* this is called a clearfix. it makes sure that the container's children floats are cleared, without using extra markup */
-
-.clearfix {
-    *zoom:1 /* for IE */
-}
-
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-/* end clearfix*/
-
-/* below is just to make things easier to see, not required */
-body > div {
-    border:1px dashed red;
-    margin-bottom:10px;    
-}
 
 
 
-## Projects v1
+## Projects v2
 
 <div class="clearfix float-my-children">
    <img src='./ctl_example.jpeg' width=20%>
@@ -77,29 +49,27 @@ body > div {
 	**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
 	To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
 
-
- <img align="left" style="padding:10px;"
-  src="./ctl_example.jpeg" alt="CTL Example" width="20%">
-
-  - **Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
-    To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
+<div>
+ <img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="20%">
+- **Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
+To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
 <br>
 <br>
 <br>
 <br>
 <br>
+</div>
 
-
-2. <img align="left" style="padding:10px;"
-  src="./supermart-banner.png" alt="supermart banner" width="20%">
-
-  - **Audience Creation for Consumables**,	(Samik Datta)
+<div>
+<img align="left" style="padding:10px;" src="./supermart-banner.png" alt="supermart banner" width="20%">
+**Audience Creation for Consumables**,	(Samik Datta)
     Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. \[[More details](supermart.md)\] \[[prepreint: to be released soon]\]
 <br>
 <br>
 <br>
 <br>
 <br>
+</div>
 
 
 3. **Candidate Generation and Ranking**, (Samik Datta, Dr. Adtiya Rachakonda)
