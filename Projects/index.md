@@ -29,8 +29,6 @@ To recommend fashion-compatible outfits given a 'parent' product.\[[More details
 <br>
 <br>
 <br>
-
-
 	- <img align="left" style="padding:10px;" src="./supermart.png" alt="supermart sugar example" width="20%">
 **Audience Creation for Consumables**,	(Samik Datta)
 Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. \[[More details](supermart.md)\] \[[prepreint: to be released soon]\]
