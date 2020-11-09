@@ -23,9 +23,7 @@ src="./ctl_example.jpeg" alt="CTL Example" width="20%">
 		<br>
 		To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
 	<br>
-	<br>
-	
-	
+---
 	
 	- <img style="float:left;padding:10px;"
 src="./supermart-banner.png" alt="supermart banner" width="20%">
