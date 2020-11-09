@@ -21,7 +21,8 @@ title: "Projects"
 src="./ctl_example.jpeg" alt="CTL Example" width="10%">
 	-**Complete The Look**,	(Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya) 
 		To recommend fashion-compatible outfits given a 'parent' product.  \[[More details](CTL.md)\]
-		
+	<br>
+	<br>
 	
 	<img style="float:left;padding:10px;"
 src="./supermart-banner.png" alt="supermart banner" width="10%">
