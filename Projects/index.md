@@ -25,7 +25,19 @@ title: "Projects"
 <br>
 <br>
 <br>
-    
+
+
+2. <img align="left" style="padding:10px;"
+  src="./ctl_example.jpeg" alt="CTL Example" width="20%">
+
+  - **Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
+    To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 2. <img align="left" style="padding:10px;"
   src="./supermart-banner.png" alt="supermart banner" width="20%">
