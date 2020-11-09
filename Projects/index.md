@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></link> 
+
 ---
 title: "Projects"
 ---
@@ -13,12 +13,13 @@ title: "Projects"
 
   gtag('config', 'G-2QHSF0Q5FG');
 </script>
+<link href="style.css" rel="stylesheet"></link> 
 </head>
 
 
 
 
-## Projects v2
+## Projects v3
 
 <div class="clearfix float-my-children">
    <img src='./ctl_example.jpeg' width=20%>
