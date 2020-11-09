@@ -1,3 +1,6 @@
+---
+title: "Projects"
+---
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2QHSF0Q5FG"></script>
@@ -9,10 +12,6 @@
   gtag('config', 'G-2QHSF0Q5FG');
 </script>
 </head>
-
----
-title: "Projects"
----
 
 ## Projects
 
