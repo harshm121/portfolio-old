@@ -21,15 +21,15 @@ title: "Projects"
 
 <table style="width:100%">
   <tr>
-    <th><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="15%"></th>
-    <th>**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
+    <th width="25%"><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="15%"></th>
+    <th width="75%">**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
 To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]</th> 
   </tr>
 	
 	
   <tr>
-    <th><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="15%"></th>
-    <th>**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
+    <th width="25%"><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="15%"></th>
+    <th width="75%">**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
 To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]</th> 
   </tr>
   
