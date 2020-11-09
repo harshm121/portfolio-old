@@ -17,7 +17,7 @@ title: "Projects"
 
 1. Data Scientist, [Flipkart](https://www.flipkart.com/) (Supervised by Dr. Arnab Bhattacharya, Dr. Aditya Rachakonda, Samik Datta) \
 
-	-**Complete The Look**,	(Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya)
+	-**Complete The Look**,	(Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya) [trial](https://github.com/harshm121/harshm121.github.io/blob/master/Projects/CTL.md)
 		-*Problem Statement:* To generate 'fashion-wise' compatible outfits given a parent product
 		-*Work Description:* To solve the problem of fashion recommenation, we started with the problem of modelling fashion-compatiblily. For this, I implemented state-of-the-art CNN architectures by Amazon (CVPR'20) and ASOS.com (KDD Fashion'18) on the publicly available Polyvore-fashion (UK based website) dataset. After looking at the generated outfits, we realised that the outfits are heavily color matched (preferred in UK) which is not desirable for Indian context. This initiated the problem of introducing diversity in outfit generation. We realised that diversity could be both, within an outfit, and across different outfits for a parent product. 
 		
