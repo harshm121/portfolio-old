@@ -15,16 +15,13 @@ title: "Projects"
 
 ## Projects
 - Data Scientist Flipkart
-1. <img style="float:left;padding:10px;"
+1. <img align="left" style="padding:10px;"
 src="./ctl_example.jpeg" alt="CTL Example" width="20%">
 		* **Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
 		<br>
 		To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
-	<br>
-	<br>
 
-	
-2.  <img style="float:left;padding:10px;"
+2. <img align="left" style="padding:10px;"
 src="./supermart-banner.png" alt="supermart banner" width="20%">
 		* **Audience Creation for Consumables**,	(Samik Datta)
 	<br>
