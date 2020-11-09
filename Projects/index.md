@@ -17,7 +17,7 @@ title: "Projects"
 
 
 
-## Projects v6
+## Projects v7
 
 1. Data Scientist at Flipkart
 
