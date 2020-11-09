@@ -1,4 +1,3 @@
-
 ---
 title: "Projects"
 ---
@@ -13,13 +12,12 @@ title: "Projects"
 
   gtag('config', 'G-2QHSF0Q5FG');
 </script>
-<link href="style.css" rel="stylesheet"></link> 
 </head>
 
 
 
 
-## Projects v5
+## Projects v6
 
 1. Data Scientist at Flipkart
  <img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="20%">
@@ -29,11 +27,13 @@ To recommend fashion-compatible outfits given a 'parent' product.\[[More details
 <br>
 <br>
 <br>
+<br>
 
 
-<img align="left" style="padding:10px;" src="./supermart.png" alt="supermart banner" width="20%">
+<img align="left" style="padding:10px;" src="./supermart.png" alt="supermart sugar example" width="20%">
 **Audience Creation for Consumables**,	(Samik Datta)
     Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. \[[More details](supermart.md)\] \[[prepreint: to be released soon]\]
+<br>
 <br>
 <br>
 <br>
