@@ -37,7 +37,7 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 <br>
 <br>
 <br>
-	- ![tp]('supermart.png') Supermart tp tp tp tp tp
+	- ![tp](supermart.png) Supermart tp tp tp tp tp
 	- **Candidate Generation and Ranking**, (Samik Datta, Dr. Adtiya Rachakonda)
 *Work Description:* Customized **Bayesian Personalised Ranking** based Matrix Factorisation framework for Flipkart homepage recommendation (improvement in clicks by 2 bps on Flipkart homepage, currently in larger A/B testing phase) and designed multiple Lamda MART & LR based rankers for Flipkart home and product page.
 
