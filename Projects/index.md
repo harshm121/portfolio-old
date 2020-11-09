@@ -19,28 +19,8 @@ title: "Projects"
 
 
 
-## Projects v3
+## Projects v4
 
-<div class="clearfix float-my-children">
-   <img src='./ctl_example.jpeg' width=20%>
-   <div>some text here</div>
-</div>
-
-<div class="clearfix float-my-children">
-   <img src='./ctl_example.jpeg' width=20%>
-   <div>some text here</div>
-</div>
-
-
-
-
-
-
-
-
-
-
----
 1. Data Scientist at Flipkart v2
 <div>
  <img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="20%">
