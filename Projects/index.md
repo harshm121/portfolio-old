@@ -21,7 +21,7 @@ title: "Projects"
 
 1. Data Scientist at Flipkart
 
-	- <img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="20%">
+	- <img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="15%">
 **Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
 To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
 <br>
@@ -29,11 +29,9 @@ To recommend fashion-compatible outfits given a 'parent' product.\[[More details
 <br>
 <br>
 <br>
-<br>
-	- <img align="left" style="padding:10px;" src="./supermart.png" alt="supermart sugar example" width="20%">
+	- <img align="left" style="padding:10px;" src="./supermart.png" alt="supermart sugar example" width="15%">
 **Audience Creation for Consumables**,	(Samik Datta)
 Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. \[[More details](supermart.md)\] \[prepreint: to be released soon\]
-<br>
 <br>
 <br>
 <br>
