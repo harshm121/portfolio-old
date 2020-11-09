@@ -29,15 +29,15 @@ To recommend fashion-compatible outfits given a 'parent' product.\[[More details
 <br>
 <br>
 <br>
+<br>
 	- <img align="left" style="padding:10px;" src="./supermart.png" alt="supermart sugar example" width="20%">
 **Audience Creation for Consumables**,	(Samik Datta)
-Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. \[[More details](supermart.md)\] \[[prepreint: to be released soon]\]
+Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. \[[More details](supermart.md)\] \[prepreint: to be released soon\]
 <br>
 <br>
 <br>
 <br>
 <br>
-	- ![tp](supermart.png) Supermart tp tp tp tp tp
 	- **Candidate Generation and Ranking**, (Samik Datta, Dr. Adtiya Rachakonda)
 *Work Description:* Customized **Bayesian Personalised Ranking** based Matrix Factorisation framework for Flipkart homepage recommendation (improvement in clicks by 2 bps on Flipkart homepage, currently in larger A/B testing phase) and designed multiple Lamda MART & LR based rankers for Flipkart home and product page.
 
