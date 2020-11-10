@@ -15,10 +15,6 @@ title: "Projects"
 </head>
 
 
-
-
-## Projects v16
-
 ### A. Data Scientist, Flipkart
 
 <table style="width:100%">
@@ -31,8 +27,14 @@ Recommending fashion-compatible outfits given a 'parent' product and introducing
 	
   <tr>
     <th width="25%"><img align="left" style="padding:10px;" src="./supermart.png" alt="supermart sugar example" width="100%"></th>
-	<th width="75%"><b>Audience Creation for Consumables</b>, Samik Datta <br>
+	<th width="75%"><b>Audience Creation for Consumables</b>, Samik Datta - Flipkart <br>
 Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. [<a href="https://harshm121.github.io/Projects/supermart/">More details here</a>] [prepreint: to be released soon]</th> 
+  </tr>
+
+  <tr>
+    <th width="25%"><img align="left" style="padding:10px;" src="./reco.png" alt="Recommendation word cloud" width="100%"></th>
+	<th width="75%"><b>Candidate Generation and Ranking</b>, Samik Datta, Dr. Adtiya Rachakonda - Flipkart<br>
+		Customized <b>Bayesian Personalised Ranking</b> based Matrix Factorisation framework for Flipkart homepage recommendation (improvement in clicks by 2 bps on Flipkart homepage, currently in larger A/B testing phase) and designed multiple Lamda MART & LR based rankers for Flipkart home and product page.</th> 
   </tr>
   
 </table>
@@ -40,38 +42,6 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 </body>
 </html>
 
-
-
-
----
-1. Data Scie at Fkart
-- | ![tp](ctl_example.jpeg) 	| **Complete the look**: it is a good project 	|
-|:--------------------:	|:-------------------------------------------:	|
-
-- | ![tp](supermart.png) 	| **Complete the look**: it is a good project 	|
-|:--------------------:	|:-------------------------------------------:	|
-
-
----
-1. Data Scientist at Flipkart
-
-	- <img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width="15%">
-**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
-To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]
-<br>
-<br>
-<br>
-<br>
-<br>
-	- <img align="left" style="padding:10px;" src="./supermart.png" alt="supermart sugar example" width="15%">
-**Audience Creation for Consumables**,	(Samik Datta)
-Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. \[[More details](supermart.md)\] \[prepreint: to be released soon\]
-<br>
-<br>
-<br>
-<br>
-	- **Candidate Generation and Ranking**, (Samik Datta, Dr. Adtiya Rachakonda)
-*Work Description:* Customized **Bayesian Personalised Ranking** based Matrix Factorisation framework for Flipkart homepage recommendation (improvement in clicks by 2 bps on Flipkart homepage, currently in larger A/B testing phase) and designed multiple Lamda MART & LR based rankers for Flipkart home and product page.
 
 2. Covid 
 	- Forecasting
