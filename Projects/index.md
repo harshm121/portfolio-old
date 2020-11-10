@@ -64,14 +64,14 @@ Proposed an analytical framework to help create a mobility restriction policy sc
 <table style="width:100%;">
   <tr>
     <th width="30%"><img align="left" style="padding:10px;" src="./skinseg.png" alt="Skin segmentation example" width = "100%"></th>
-	  <th width="70%"><h3>,b>Skin Segmentation using NIR Images</b></h3> <i><h8> Supervised by: <a href="https://sites.google.com/view/prathosh">Prof. Prathosh AP</a> - IIT Delhi </h8></i><br><br>
+	  <th width="70%"><h3><b>Skin Segmentation using NIR Images</b></h3> <i><h8> Supervised by: <a href="https://sites.google.com/view/prathosh">Prof. Prathosh AP</a> - IIT Delhi </h8></i><br><br>
 The aim of the project is to segment human skin out of Near Infrared Images. Skin segmentation from RGB images is a well studied problem but since many night vision cameras use infrared, segmenting skin from infra red images can be useful. This requires a lot of annotated data which is not available in large amounts. However, RGB images with skin annotations are available abunduntly. Hence to solve the problem of data availability, we first trained a RGB to NIR Transformation using pix2pix type conditional GAN and then trained a skin segmentation on RGB converted to NIR images. </th> 
   </tr>
 	
 	
   <tr>
     <th width="30%"><img align="left" style="padding:10px;" src="./boardsnapped.png" alt="Example images" width="100%"></th>
-	<th width="70%"><h3>,b>boardSnapped</b></h3> <i><h8> Supervised by: <a href="https://sites.google.com/view/prathosh">Prof. Prathosh AP</a> - IIT Delhi </h8></i><br><br>
+	<th width="70%"><h3><b>boardSnapped</b></h3> <i><h8> Supervised by: <a href="https://sites.google.com/view/prathosh">Prof. Prathosh AP</a> - IIT Delhi </h8></i><br><br>
 	There are a lot of recorded lectures on the internet, but the lectures are usually too long and slow and it is difficult to skim through a video like one would do in notes. We formulated this task to a Machine Learnin task of finding certain key frames from an educational video (NPTEL Videos) which capture all the written content in a video. Thus 1 one hour video can be successfully summarized in about 10 images. [<a href="https://docs.google.com/presentation/d/1hnYlk-_ie_55itjfKPlbFFm5x9woRM1kMJZJNiyOV2I/edit?usp=sharing">Presentation</a>]
 </th> 
   </tr>
