@@ -1,3 +1,7 @@
+---
+title: "Complete The Look"
+---
+
 <img align="center" src="https://harshm121.github.io/Projects/ctl_example.jpeg" alt="CTL example" width="30%">
 <br>
 <em>An example of Complete the look recommendations (representative image)</em>
