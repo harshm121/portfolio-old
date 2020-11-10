@@ -17,17 +17,16 @@ title: "Home"
 
 <img style="float:left;padding:20px;"
 src="./images/personal-photo.png" alt="profile picture" width="30%">
-I am a Data Scientist at [Flipkart](https://www.flipkart.com/). I work with the Recommenations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/), where I work on various Candidate Generation and Ranking problems. Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
+I am a Data Scientist at [Flipkart](https://www.flipkart.com/). I work with the Recommenations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/), I work on various Candidate Generation and Ranking problems. Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
 
 
-Since March 2020, I have also been volunteering my time with [DSIndiaVsCovid](http://dsindiavscovid.org/). There I work on COVID-19 case count forecasting for heavily impacted cities using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework is used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. I also worked on a control framework to guide public health agencies in creating a policy schedule to control an epidemic. 
-
+Since March 2020, I have also been volunteering my time with [DSIndiaVsCovid](http://dsindiavscovid.org/). There, I work on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework is used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. I also worked on a control framework to guide public health agencies in creating a policy schedule to control an epidemic.
 
 
 Broadly my interest lies in Computer Vision, understanding Deep Learning and Machine Learning (theory as well as it's 'impactful' application). I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
 
-## **Publications**:
+## **Publications and Preprints**:
 
 **\* Equal Contribution** 
 
