@@ -20,7 +20,7 @@ title: "Projects"
 <table style="width:100%;">
   <tr>
     <th width="30%"><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" height = "60%"></th>
-	  <th width="70%"><b>Complete The Look</b>, Flipkart, <a href = "http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a> - IIT Kharagpur, <a href="https://www.linkedin.com/in/arnab-bhattacharya-26383573/">Dr. Arnab Bhattacharya</a>, <a href="https://www.linkedin.com/in/adityarachakonda/">Dr. Aditya Rachakonda</a> - Flipkart <br>
+	  <th width="70%"><h3>Complete The Look</h3>, Supervised by: <a href = "http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a> - IIT Kharagpur, <a href="https://www.linkedin.com/in/arnab-bhattacharya-26383573/">Dr. Arnab Bhattacharya</a>, <a href="https://www.linkedin.com/in/adityarachakonda/">Dr. Aditya Rachakonda</a> - Flipkart <br>
 Recommending fashion-compatible outfits given a 'parent' product and introducing diversity in the outfits generated. [<a href="https://harshm121.github.io/Projects/CTL/">More details here</a>]</th> 
   </tr>
 	
