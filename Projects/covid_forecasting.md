@@ -1,6 +1,17 @@
 ---
 title: "COVID-19 Forecasting"
 ---
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2QHSF0Q5FG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2QHSF0Q5FG');
+</script>
+</head>
 
 <img align="center" src="https://harshm121.github.io/Projects/covid_forecasting.png" alt="Forecasting Example" width="30%">
 <br>
