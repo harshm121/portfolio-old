@@ -51,7 +51,7 @@ Created a Machine Learning framework to forecast the upcoming burden on health i
 	
 	
   <tr>
-    <th width="25%"><img align="left" style="padding:10px;" src="./CoSIR.png" alt="CoSIR Model" width="100%"></th>
+    <th width="25%"><img align="left" style="padding:10px;" src="./cosir.png" alt="CoSIR Model" width="100%"></th>
 	<th width="75%"><b>Controlling an Epidemic</b>,  Dr. Srujana Merugu - Wadhwani AI <br>
 Proposed an analytical framework to help create a mobility restriction policy schedule to control an epidemic to a desired leve.[<a href="https://harshm121.github.io/Projects/cosir/">More details here</a>] [prepreint: to be released soon]</th> 
   </tr>
