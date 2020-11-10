@@ -1,4 +1,6 @@
-## Audience Creation for Consumables
+---
+title: "Audience Creation for Consumables"
+---
 
 <img align="center" src="https://harshm121.github.io/Projects/supermart.png" alt="Supermart" width="30%">
 <br>
