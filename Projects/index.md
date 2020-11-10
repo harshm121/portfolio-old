@@ -17,20 +17,22 @@ title: "Projects"
 
 
 
-## Projects v13
+## Projects v14
+
+### A. Data Scientist, Flipkart
 
 <table style="width:100%">
   <tr>
-    <th width="25%"><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example"></th>
-    <th width="75%">**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
-To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]</th> 
+    <th width="25%">1. <img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width = "100%"></th>
+    <th width="75%"><b>Complete The Look</b>, Flipkart, Prof. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
+To recommend fashion-compatible outfits given a 'parent' product.[<a href="https://harshm121.github.io/Projects/CTL/">More details here</a>]</th> 
   </tr>
 	
 	
   <tr>
-    <th width="25%"><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example"></th>
-    <th width="75%">**Complete The Look**, Flipkart, Dr. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya - Flipkart
-To recommend fashion-compatible outfits given a 'parent' product.\[[More details](CTL.md)\]</th> 
+    <th width="25%"><img align="left" style="padding:10px;" src="./supermart.png" alt="supermart sugar example" width="100%"></th>
+	<th width="75%"><b>Audience Creation for Consumables</b>, Samik Datta
+Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. [<a href="https://harshm121.github.io/Projects/supermart/">More details here</a>] [prepreint: to be released soon]</th> 
   </tr>
   
 </table>
