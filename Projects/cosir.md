@@ -7,7 +7,7 @@ title: "Controlling an Epidemic"
 
 
 
-Controlling an epidemic is has been the holy grail during the COVID-19 pandemic. Heavy mobility restrictions leads to huge economic loss and loss of livelyhood, on the other hand, fewer restrictions increase the burden on health infrastructure of a region and can lead to a lot of preventable deaths. While working with the public health officials to provide forecasts (details [here]("https://harshm121.github.io/Projects/covid_forecasting")) we realised that generally the authorities have a passive and reactive scenario based forecasting approach and do not actively plan policies to "control" the pandemic. To fill this gap, we proposed an analytic framework which gives a mobility restriction policy schedule based on the target infectious level (derived from the medical capacity of a region). 
+Controlling an epidemic is has been the holy grail during the COVID-19 pandemic. Heavy mobility restrictions leads to huge economic loss and loss of livelyhood, on the other hand, fewer restrictions increase the burden on health infrastructure of a region and can lead to a lot of preventable deaths. While working with the public health officials to provide forecasts (details [here](https://harshm121.github.io/Projects/covid_forecasting)) we realised that generally the authorities have a passive and reactive scenario based forecasting approach and do not actively plan policies to "control" the pandemic. To fill this gap, we proposed an analytic framework which gives a mobility restriction policy schedule based on the target infectious level (derived from the medical capacity of a region). 
 
 
 
