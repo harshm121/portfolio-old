@@ -15,8 +15,8 @@ title: "Projects"
 </head>
 
 
-### A. Data Scientist, Flipkart
-<font size="12"> 
+### A. Data Scientist, Flipkart Internet Private Ltd. 
+<font size="7"> 
 <table style="width:100%;">
   <tr>
     <th width="25%"><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width = "100%"></th>
@@ -41,7 +41,7 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 </font>
 
 ### B. Volunteer, Data Science India vs COVID-19
-<font size="12"> 
+<font size="7"> 
 <table style="width:100%;">
   <tr>
     <th width="25%"><img align="left" style="padding:10px;" src="./covid_forecasting.png" alt="Forecasting Example" width = "100%"></th>
