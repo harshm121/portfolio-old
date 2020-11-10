@@ -45,7 +45,7 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 <table style="width:100%;">
   <tr>
     <th width="30%"><img align="left" style="padding:10px;" src="./covid_forecasting.png" alt="Forecasting Example" width = "100%"></th>
-	  <th width="70%"><h3>COVID-19 Forecasting</h3>, <h8> Supervised by:<a href="https://www.linkedin.com/in/srujana-merugu-a7243819/">Dr. Srujana Merugu</a>, <a href="https://www.linkedin.com/in/alpan-raval-36219a2/">Dr. Alpan Raval</a> - Wadhwani AI</h8><br> <br>
+	  <th width="70%"><h3>COVID-19 Forecasting</h3> <h8> Supervised by:<a href="https://www.linkedin.com/in/srujana-merugu-a7243819/">Dr. Srujana Merugu</a>, <a href="https://www.linkedin.com/in/alpan-raval-36219a2/">Dr. Alpan Raval</a> - Wadhwani AI</h8><br> <br>
 Created a Machine Learning framework to forecast the upcoming burden on health infrastructure and help public health authorities in planning policies. [<a href="https://harshm121.github.io/Projects/covid_forecasting">More details here</a>] [<a href="https://www.medrxiv.org/content/10.1101/2020.10.19.20215293v1">Extended Abstract</a> published in CoDS-COMAD'21]</th> 
   </tr>
 	
