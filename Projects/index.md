@@ -16,24 +16,24 @@ title: "Projects"
 
 
 ### A. Data Scientist, Flipkart
-<font size="3"> 
+<font size="2"> 
 <table style="width:100%;">
   <tr>
-    <th width="25%"><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width = "80%"></th>
-    <th width="75%"><b>Complete The Look</b>, Flipkart, Prof. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya, Dr. Aditya Rachakonda - Flipkart <br>
+    <th width="30%"><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" height = "100%"></th>
+    <th width="70%"><b>Complete The Look</b>, Flipkart, Prof. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya, Dr. Aditya Rachakonda - Flipkart <br>
 Recommending fashion-compatible outfits given a 'parent' product and introducing diversity in the outfits generated. [<a href="https://harshm121.github.io/Projects/CTL/">More details here</a>]</th> 
   </tr>
 	
 	
   <tr>
-    <th width="25%"><img align="left" style="padding:10px;" src="./supermart.png" alt="supermart sugar example" width="80%"></th>
-	<th width="75%"><b>Audience Creation for Consumables</b>, Samik Datta - Flipkart <br>
+    <th width="30%"><img align="left" style="padding:10px;" src="./supermart.png" alt="supermart sugar example" height="100%"></th>
+	<th width="70%"><b>Audience Creation for Consumables</b>, Samik Datta - Flipkart <br>
 Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. [<a href="https://harshm121.github.io/Projects/supermart/">More details here</a>] [prepreint: to be released soon]</th> 
   </tr>
 
   <tr>
-    <th width="25%"><img align="left" style="padding:10px;" src="./reco.png" alt="Recommendation word cloud" width="80%"></th>
-	<th width="75%"><b>Candidate Generation and Ranking</b>, Samik Datta, Dr. Adtiya Rachakonda - Flipkart <br>
+    <th width="30%"><img align="left" style="padding:10px;" src="./reco.png" alt="Recommendation word cloud" height="100%"></th>
+	<th width="70%"><b>Candidate Generation and Ranking</b>, Samik Datta, Dr. Adtiya Rachakonda - Flipkart <br>
 		Customized <b>Bayesian Personalised Ranking</b> based Matrix Factorisation framework for Flipkart homepage recommendation (improvement in clicks by 2 bps on Flipkart homepage, currently in larger A/B testing phase) and designed multiple Lamda MART & LR based rankers for Flipkart home and product page.</th> 
   </tr>
   
@@ -41,18 +41,18 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 </font>
 
 ### B. Volunteer, Data Science India vs COVID-19
-<font size="3"> 
+<font size="2"> 
 <table style="width:100%;">
   <tr>
-    <th width="25%"><img align="left" style="padding:10px;" src="./covid_forecasting.png" alt="Forecasting Example" width = "80%"></th>
-    <th width="75%"><b>COVID-19 Forecasting</b>, Dr. Srujana Merugu, Dr. Alpan Raval - Wadhwani AI <br>
+    <th width="30%"><img align="left" style="padding:10px;" src="./covid_forecasting.png" alt="Forecasting Example" width = "100%"></th>
+    <th width="70%"><b>COVID-19 Forecasting</b>, Dr. Srujana Merugu, Dr. Alpan Raval - Wadhwani AI <br>
 Created a Machine Learning framework to forecast the upcoming burden on health infrastructure and help public health authorities in planning policies. [<a href="https://harshm121.github.io/Projects/covid_forecasting">More details here</a>] [<a href="https://www.medrxiv.org/content/10.1101/2020.10.19.20215293v1">Extended Abstract</a> published in CoDS-COMAD'21]</th> 
   </tr>
 	
 	
   <tr>
-    <th width="25%"><img align="left" style="padding:10px;" src="./cosir.png" alt="CoSIR Model" width="80%"></th>
-	<th width="75%"><b>Controlling an Epidemic</b>,  Dr. Srujana Merugu - Wadhwani AI <br>
+    <th width="30%"><img align="left" style="padding:10px;" src="./cosir.png" alt="CoSIR Model" width="100%"></th>
+	<th width="70%"><b>Controlling an Epidemic</b>,  Dr. Srujana Merugu - Wadhwani AI <br>
 Proposed an analytical framework to help create a mobility restriction policy schedule to control an epidemic to a desired level.[<a href="https://harshm121.github.io/Projects/cosir/">More details here</a>] [prepreint: to be released soon]</th> 
   </tr>
 
@@ -60,19 +60,20 @@ Proposed an analytical framework to help create a mobility restriction policy sc
 </font>
 
 ### C. Undergraduation, IIT Delhi
-<font size="3"> 
+<font size="2"> 
 <table style="width:100%;">
   <tr>
-    <th width="25%"><img align="left" style="padding:10px;" src="./covid_forecasting.png" alt="Forecasting Example" width = "80%"></th>
-    <th width="75%"><b>COVID-19 Forecasting</b>, Dr. Srujana Merugu, Dr. Alpan Raval - Wadhwani AI <br>
-Created a Machine Learning framework to forecast the upcoming burden on health infrastructure and help public health authorities in planning policies. [<a href="https://harshm121.github.io/Projects/covid_forecasting">More details here</a>] [<a href="https://www.medrxiv.org/content/10.1101/2020.10.19.20215293v1">Extended Abstract</a> published in CoDS-COMAD'21]</th> 
+    <th width="30%"><img align="left" style="padding:10px;" src="./skinseg.png" alt="Skin segmentation example" width = "100%"></th>
+    <th width="70%"><b>Skin Segmentation using NIR Images</b>, Prof. Prathosh AP - IIT Delhi <br>
+Segmenting skin from Near Infrared Images requires a lot of data which is not available in large amounts. However, RGB images with skin annotations are available abunduntly. Hence to solve the problem of data availability, we first trained a RGB to NIR Transformation using pix2pix type conditional GAN and then trained. </th> 
   </tr>
 	
 	
   <tr>
-    <th width="25%"><img align="left" style="padding:10px;" src="./cosir.png" alt="CoSIR Model" width="80%"></th>
-	<th width="75%"><b>Controlling an Epidemic</b>,  Dr. Srujana Merugu - Wadhwani AI <br>
-Proposed an analytical framework to help create a mobility restriction policy schedule to control an epidemic to a desired leve.[<a href="https://harshm121.github.io/Projects/cosir/">More details here</a>] [prepreint: to be released soon]</th> 
+    <th width="30%"><img align="left" style="padding:10px;" src="./boardsnapped.png" alt="Example images" width="100%"></th>
+	<th width="70%"><b>Boardsnapped/b>, Prof. Prathosh AP - IIT Delhi <br>
+	Sdflasn asdlas [<a href="https://harshm121.github.io/Projects/cosir/">More details here</a>]
+</th> 
   </tr>
 
 </table>
