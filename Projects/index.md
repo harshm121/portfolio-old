@@ -20,7 +20,7 @@ title: "Projects"
 <table style="width:100%;">
   <tr>
     <th width="25%"><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width = "80%"></th>
-    <th width="75%"><b>Complete The Look</b>, Flipkart, Prof. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya, Dr. Aditya Rachakond - Flipkart <br>
+    <th width="75%"><b>Complete The Look</b>, Flipkart, Prof. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya, Dr. Aditya Rachakonda - Flipkart <br>
 Recommending fashion-compatible outfits given a 'parent' product and introducing diversity in the outfits generated. [<a href="https://harshm121.github.io/Projects/CTL/">More details here</a>]</th> 
   </tr>
 	
@@ -53,7 +53,7 @@ Created a Machine Learning framework to forecast the upcoming burden on health i
   <tr>
     <th width="25%"><img align="left" style="padding:10px;" src="./cosir.png" alt="CoSIR Model" width="80%"></th>
 	<th width="75%"><b>Controlling an Epidemic</b>,  Dr. Srujana Merugu - Wadhwani AI <br>
-Proposed an analytical framework to help create a mobility restriction policy schedule to control an epidemic to a desired leve.[<a href="https://harshm121.github.io/Projects/cosir/">More details here</a>] [prepreint: to be released soon]</th> 
+Proposed an analytical framework to help create a mobility restriction policy schedule to control an epidemic to a desired level.[<a href="https://harshm121.github.io/Projects/cosir/">More details here</a>] [prepreint: to be released soon]</th> 
   </tr>
 
 </table>
