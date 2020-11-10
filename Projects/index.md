@@ -16,8 +16,8 @@ title: "Projects"
 
 
 ### A. Data Scientist, Flipkart
-
-<table style="width:80%;">
+<font size="12"> 
+<table style="width:100%;">
   <tr>
     <th width="25%"><img align="left" style="padding:10px;" src="./ctl_example.jpeg" alt="CTL Example" width = "100%"></th>
     <th width="75%"><b>Complete The Look</b>, Flipkart, Prof. Niloy Ganguly - IIT Kharagpur, Dr. Arnab Bhattacharya, Dr. Aditya Rachakond - Flipkart <br>
@@ -38,11 +38,11 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
   </tr>
   
 </table>
+</font>
 
-
-### A. Volunteer, Data Science India vs COVID-19
-
-<table style="width:80%;">
+### B. Volunteer, Data Science India vs COVID-19
+<font size="12"> 
+<table style="width:100%;">
   <tr>
     <th width="25%"><img align="left" style="padding:10px;" src="./covid_forecasting.png" alt="Forecasting Example" width = "100%"></th>
     <th width="75%"><b>COVID-19 Forecasting</b>, Dr. Srujana Merugu, Dr. Alpan Raval - Wadhwani AI <br>
@@ -57,7 +57,7 @@ Proposed an analytical framework to help create a mobility restriction policy sc
   </tr>
 
 </table>
-
+</font>
 3. Skin Segmentation (Dr. Prathosh AP, IIT Delhi):
 	- The aim of the project is to segment human skin out of Near Infrared Images. Skin segmentation is a solved problem for RGB images but since many night vision cameras use infrared, segmenting images can be useful from infra red images. The problem we faced was to generate data as the data labelling required intense human intelligence. 
 	To work around the problem of data, we are trying to use conditional GANs to convert a given RGB image to an NIR image. With this we could use the huge datasets available with RGB images and their skin segmented mask.
