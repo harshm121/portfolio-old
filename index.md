@@ -60,7 +60,7 @@ Broadly my interest lies in Computer Vision, understanding Deep Learning and Mac
 </details>
 
 <br>
-**Personal Interests**: In my free time I mostly surf Youtube, there are some interesting channels which produce awesome content. I also like watching (and reading) biographies and documentaries. I can spend hours debating and/or discussing philosophy, technology
+**Personal Interests:** I like watching and reading biographies and documentaries. I also enjoy surfing YouTube which I feel is an extremely far reaching and impactful platform. I have personally found alot of content which intrigues me. Philosophy and Technology are two domains I find very engaging and am always up for discussing them at lengths.
 
 
 
