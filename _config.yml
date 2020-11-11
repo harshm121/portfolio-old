@@ -11,7 +11,7 @@ excerpt_separator: "\n\n\n" # two blank lines
 
 style:
   minimalist: false
-  dark: true
+  dark: false
 
 navigation:
   - index.md
