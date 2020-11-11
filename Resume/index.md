@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "CV"
 ---
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -14,5 +14,6 @@ title: "Resume"
 </head>
 
 Hey, thanks for your interest. [Click here](/PDFs/HarshMaheshwari_CV.pdf) to have a look at my resume. 
-Feel free to contact me at [harshm121@gmail.com](mailto:harshm121@gmail.com) or +91-9654011364
+
+Feel free to contact me at [harshm121@gmail.com](mailto:harshm121@gmail.com)
 
