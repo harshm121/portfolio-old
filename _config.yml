@@ -18,7 +18,7 @@ navigation:
   - Projects/index.md
   - Articles/index.md
   - Interests/index.md
-  - CV//PDFs/HarshMaheshwari_CV.pdf
+  - CV/index.md
 
 # comments:
 #   disqus: "disqus-contrast"
@@ -29,8 +29,9 @@ links: # see http://fontawesome.io/icons/#brand for all possible icons
   - github: "https://github.com/harshm121/"
   - envelope: "mailto:harshm121@gmail.com"
   - medium: "https://medium.com/@harshm121"
+  - twitter: "https://twitter.com/harsh_m121"
   - instagram: "https://www.instagram.com/harsh.maheshwari_/"
-  # - file: "/HarshMaheshwari_CV.pdf"
+  - file: "/PDFs/HarshMaheshwari_CV.pdf"
   # - facebook: "https://www.facebook.com/harshrmaheshwari/"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
