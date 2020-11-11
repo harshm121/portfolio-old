@@ -4,13 +4,13 @@ title: "Home"
 
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2QHSF0Q5FG"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NB6TYSXY61"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-2QHSF0Q5FG');
+  gtag('config', 'G-NB6TYSXY61');
 </script>
 </head>
 
