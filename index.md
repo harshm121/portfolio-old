@@ -40,7 +40,7 @@ Broadly my interest lies in Computer Vision, understanding Deep Learning and Mac
 </details>
 <br>
 
-(2) **Harsh Maheshwari\***, Shreyas Shetty\*, Nayana Bannur, Srujana Merugu, "CoSIR: Managing and Epidemic via Optimal Adaptive Control of Transmission Policy", \[[preprint](https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v1)\]
+(2) **Harsh Maheshwari\***, Shreyas Shetty\*, Nayana Bannur, Srujana Merugu, "CoSIR: Managing and Epidemic via Optimal Adaptive Control of Transmission Policy" \[[preprint](https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v1)\]
 <details><summary>Abstract</summary>
 <div>
 <p style="background-color:#ffffcc;"> 
