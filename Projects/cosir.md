@@ -22,5 +22,5 @@ Controlling an epidemic is has been the holy grail during the COVID-19 pandemic.
 
 
 
- [preprint: too be released soon] [Code: to be released soon]
+\[[preprint](https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v1)\] [Code: to be released soon]
 
