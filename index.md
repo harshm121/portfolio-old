@@ -49,6 +49,7 @@ Broadly my interest lies in Computer Vision, understanding Deep Learning and Mac
 </p>
 </div>
 </details>
+<br>
 
 (3) Nayana Bannur, **Harsh Maheshwari**, Sansiddh Jain, Shreyas Shetty, Srujana Merugu, Alpan Raval, "Adaptive COVID-19 Forecasting via Bayesian Optimization", in CoDS-COMAD 2021 \[[paper](https://doi.org/10.1101/2020.10.19.20215293)\]
 <details><summary>Abstract</summary>
@@ -58,8 +59,8 @@ Broadly my interest lies in Computer Vision, understanding Deep Learning and Mac
 </p>
 </div>
 </details>
-
 <br>
+
 **Personal Interests:** I like watching and reading biographies and documentaries. I also enjoy surfing YouTube which I feel is an extremely far reaching and impactful platform. I have personally found alot of content which intrigues me. Philosophy and Technology are two domains I find very engaging and am always up for discussing them at lengths.
 
 
