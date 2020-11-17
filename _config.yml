@@ -25,7 +25,7 @@ navigation:
 # #  isso: "comments.mysite.org"
 acad-links:
   - google-scholar: "https://scholar.google.com/citations?user=fs01uyQAAAAJ&hl=en&oi=ao"
-  - cv: "/PDFs/HarshMaheshwari_CV.pdf"
+#   - cv: "/PDFs/HarshMaheshwari_CV.pdf"
   
 links: # see http://fontawesome.io/icons/#brand for all possible icons
   - linkedin: "https://www.linkedin.com/in/harsh-maheshwari-650039110/"
