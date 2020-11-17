@@ -23,7 +23,10 @@ navigation:
 # comments:
 #   disqus: "disqus-contrast"
 # #  isso: "comments.mysite.org"
-
+acad-links:
+  - google-scholar: "https://scholar.google.com/citations?user=fs01uyQAAAAJ&hl=en&oi=ao"
+  - cv: "/PDFs/HarshMaheshwari_CV.pdf"
+  
 links: # see http://fontawesome.io/icons/#brand for all possible icons
   - user-graduate: "https://scholar.google.com/citations?user=fs01uyQAAAAJ&hl=en&oi=ao"
   - linkedin: "https://www.linkedin.com/in/harsh-maheshwari-650039110/"
@@ -32,7 +35,7 @@ links: # see http://fontawesome.io/icons/#brand for all possible icons
   - medium: "https://medium.com/@harshm121"
   - twitter: "https://twitter.com/harsh_m121"
   - instagram: "https://www.instagram.com/harsh.maheshwari_/"
-  - file: "/PDFs/HarshMaheshwari_CV.pdf"
+#   - file: "/PDFs/HarshMaheshwari_CV.pdf"
   # - facebook: "https://www.facebook.com/harshrmaheshwari/"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
