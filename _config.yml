@@ -37,4 +37,4 @@ links: # see http://fontawesome.io/icons/#brand for all possible icons
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
-plugins: [jekyll-feed, jekyll-paginate]
+plugins: [jekyll-feed, jekyll-paginate, jekyll-seo-tag]
