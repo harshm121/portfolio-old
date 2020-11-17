@@ -45,7 +45,7 @@
   <nav>
     <div>{% for path in site.navigation %}{% assign node = site.pages | where: "path", path | first %}<a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>{% endfor %}</div>
     <div>{% for link_hash in site.acad-links %}{% for link in link_hash %}<a href="{{ link[1] }}"><i class="ai ai-{{ link[0] }}"></i></a>{% endfor %}{% endfor %}</div>
-    <div>{% for link_hash in site.links %}{% for link in link_hash %}<a href="{{ link[1] }}"><i class="fa fa-{{ link[0] }}"></i></a>{% endfor %}{% endfor %}</div>
+    <div>{% for link_hash in site.links %}{% for link in link_hash %}<a href="{{ link[1] }}"><i class="fa fa-{{ link[0] }}"></i></a>{% endfor %}{% endfor %}<br>{% for link_hash in site.acad-links %}{% for link in link_hash %}<a href="{{ link[1] }}"><i class="ai ai-{{ link[0] }}"></i></a>{% endfor %}{% endfor %}</div>
 <!--     <a href="https://scholar.google.com/citations?user=fs01uyQAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar"></i></a> -->
   </nav>
 </header>
