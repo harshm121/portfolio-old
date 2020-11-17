@@ -23,7 +23,11 @@ navigation:
 # comments:
 #   disqus: "disqus-contrast"
 # #  isso: "comments.mysite.org"
-
+social-network-links:
+  - linkedin: "https://www.linkedin.com/in/harsh-maheshwari-650039110/"
+  - github: "https://github.com/harshm121/"
+  - envelope: "mailto:harshm121@gmail.com"
+  
 links: # see http://fontawesome.io/icons/#brand for all possible icons
   - user-graduate: "https://scholar.google.com/citations?user=fs01uyQAAAAJ&hl=en&oi=ao"
   - linkedin: "https://www.linkedin.com/in/harsh-maheshwari-650039110/"
@@ -37,4 +41,4 @@ links: # see http://fontawesome.io/icons/#brand for all possible icons
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
-plugins: [jekyll-feed, jekyll-paginate, jekyll-seo-tag]
+plugins: [jekyll-feed, jekyll-paginate]
