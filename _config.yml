@@ -25,6 +25,7 @@ navigation:
 # #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
+  - scholar: "https://scholar.google.com/citations?user=fs01uyQAAAAJ&hl=en&oi=ao"
   - linkedin: "https://www.linkedin.com/in/harsh-maheshwari-650039110/"
   - github: "https://github.com/harshm121/"
   - envelope: "mailto:harshm121@gmail.com"
