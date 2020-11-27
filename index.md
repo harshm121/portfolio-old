@@ -16,7 +16,7 @@ title: "Home"
 
 
 <img style="float:left;padding:10px;"
-src="./images/personal-photo.png" alt="profile picture" width="25%">
+src="./images/personal-photo.png" alt="profile picture" width="15%">
 I am a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). I work on various Candidate Generation and Ranking problems. Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
 
 
