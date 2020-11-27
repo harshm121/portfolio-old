@@ -1,5 +1,5 @@
 ---
-title: "Publications and Preprints"
+title: "Publications"
 ---
 
 <head>
