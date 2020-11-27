@@ -36,7 +36,7 @@ Broadly my interest lies in Computer Vision, understanding Deep Learning and Mac
 Recommending fashion-compatible outfits given a 'parent' product and introducing diversity in the outfits generated. [<a href="https://harshm121.github.io/Projects/CTL/">More details here</a>]</th> 
   </tr>
 <tr>
-    <th width="30%"><img src="./skinseg.png" alt="Skin segmentation example" width = "100%"></th>
+    <th width="30%"><img src="https://harshm121.github.io/Projects/skinseg.png" alt="Skin segmentation example" width = "100%"></th>
 	  <th width="70%"><h3><b>Skin Segmentation using NIR Images</b></h3> <font size="2.2"><i><h8> Supervised by: <a href="https://sites.google.com/view/prathosh">Prof. Prathosh AP</a> - IIT Delhi </h8></i></font><br>
 The aim of the project is to segment human skin out of Near Infrared Images. Skin segmentation from RGB images is a well studied problem but since many night vision cameras use infrared, segmenting skin from infra red images can be useful. This requires a lot of annotated data which is not available in large amounts. However, RGB images with skin annotations are available abunduntly. Hence to solve the problem of data availability, we first trained a RGB to NIR Transformation using pix2pix type conditional GAN and then trained a skin segmentation on RGB converted to NIR images. </th> 
   </tr>
