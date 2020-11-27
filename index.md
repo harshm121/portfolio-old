@@ -66,11 +66,11 @@ Proposed an analytical framework to help create a mobility restriction policy sc
   <tr>
     <th width="30%"><a href="https://harshm121.github.io/Projects/supermart/"><img src="https://harshm121.github.io/Projects/supermart.png" alt="supermart sugar example" height="80%"></a></th>
 	<th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/supermart/">Audience Creation for Consumables</a></b></h3> <font size="2.2"><i><h8> Supervised by: <a href="https://www.linkedin.com/in/samik-datta-7b2a927a/">Samik Datta</a> - Flipkart</h8></i></font> <br>
-Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. [<a href="https://harshm121.github.io/Projects/supermart/">More details here</a>] [prepreint: to be released soon]</th> 
+Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. [<a href="https://harshm121.github.io/Projects/supermart/">More details here</a>] [<a href="https://arxiv.org/abs/2011.08575">Preprint</a>]</th> 
   </tr>
 
   <tr>
-    <th width="30%"><img src="./projects/reco.png" alt="Recommendation word cloud" height="80%"></th>
+    <th width="30%"><img src="https://harshm121.github.io/Projects/reco.png" alt="Recommendation word cloud" height="80%"></th>
 	<th width="70%"><h3><b>Candidate Generation and Ranking</b></h3> <font size="2.2"><i><h8>Supervised by: <a href="https://www.linkedin.com/in/samik-datta-7b2a927a/">Samik Datta</a>, <a href="https://www.linkedin.com/in/adityarachakonda/">Dr. Aditya Rachakonda</a> - Flipkart</h8></i> </font><br>
 		Customized <b>Bayesian Personalised Ranking</b> based Matrix Factorisation framework for Flipkart homepage recommendation (improvement in clicks by 2 bps on Flipkart homepage, currently in larger A/B testing phase) and designed multiple Lamda MART & LR based rankers for Flipkart home and product page.</th> 
   </tr>
