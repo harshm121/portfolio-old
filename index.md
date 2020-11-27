@@ -78,6 +78,7 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 </table>
 </font>
 
+## **Publications**:
 **\* Equal Contribution** 
 
 (1) Shreyas S\*, **Harsh Maheshwari\***, Avijit Saha\*, Samik Datta\*, Shashank Jain, Disha Makhija, Anuj Nagpal, Sneha Shukla, Suyash S, "Audience Creation for Consumables - Simple and Scalable Precision Merchandising for a Growing Marketplace", Under Review at ICDE'21,  \[[preprint](https://arxiv.org/abs/2011.08575)\]
