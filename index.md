@@ -51,14 +51,14 @@ The aim of the project was to segment human skin out of Near Infrared Images. Sk
   
   <tr>
     <th width="30%"><a href="https://harshm121.github.io/Projects/covid_forecasting"><img src="https://harshm121.github.io/Projects/covid_forecasting.png" alt="Forecasting Example" width = "100%"></a></th>
-	  <th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/covid_forecasting">COVID-19 Forecasting</a></b></h3> <font size="2.2"><i><h8> Supervised by:<a href="https://www.linkedin.com/in/srujana-merugu-a7243819/">Dr. Srujana Merugu</a>, <a href="https://www.linkedin.com/in/alpan-raval-36219a2/">Dr. Alpan Raval</a> - Wadhwani AI</h8></i></font><br>
+	  <th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/covid_forecasting">COVID-19 Forecasting</a></b></h3> <font size="2.2"><i><h8> Supervised by: <a href="https://www.linkedin.com/in/srujana-merugu-a7243819/">Dr. Srujana Merugu</a>, <a href="https://www.linkedin.com/in/alpan-raval-36219a2/">Dr. Alpan Raval</a> - Wadhwani AI</h8></i></font><br>
 Created a Machine Learning framework to forecast the upcoming burden on health infrastructure and help public health authorities in planning policies. [<a href="https://harshm121.github.io/Projects/covid_forecasting">More details here</a>] [<a href="https://www.medrxiv.org/content/10.1101/2020.10.19.20215293v1">Extended Abstract</a> published in CoDS-COMAD'21]</th> 
   </tr>
 	
 	
   <tr>
     <th width="30%"><a href="https://harshm121.github.io/Projects/cosir/"><img src="https://harshm121.github.io/Projects/cosir.png" alt="CoSIR Model" width="100%"></a></th>
-	<th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/cosir/">Controlling an Epidemic</a></b></h3> <font size="2.2"><i><h8> Supervised by:  <a href="https://www.linkedin.com/in/srujana-merugu-a7243819/">Dr. Srujana Merugu</a> - Wadhwani AI </h8></i></font><br>
+	<th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/cosir/">Controlling an Epidemic</a></b></h3> <font size="2.2"><i><h8> Supervised by:  <a href="https://www.linkedin.com/in/srujana-merugu-a7243819/">Dr. Srujana Merugu</a> </h8></i></font><br>
 Proposed an analytical framework to help create a mobility restriction policy schedule to control an epidemic to a desired level.[<a href="https://harshm121.github.io/Projects/cosir/">More details here</a>] [<a href="https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v1">preprint</a>] </th> 
   </tr>
   
