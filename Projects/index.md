@@ -20,7 +20,7 @@ title: "Projects"
 <table style="width:100%;">
   <tr>
     <th width="30%"><a href="https://harshm121.github.io/Projects/CTL/"><img src="./ctl_example.jpeg" alt="CTL Example" height = "40%"></a></th>
-	    <th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/CTL/">Complete The Look</a></b></h3> <font size="2.2"><i><h8>Supervised by: <a href = "http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a> - IIT Kharagpur, <a href="https://www.linkedin.com/in/arnab-bhattacharya-26383573/">Dr. Arnab Bhattacharya</a>, <a href="https://www.linkedin.com/in/adityarachakonda/">Dr. Aditya Rachakonda</a> - Flipkart</h8></i></font> <br>
+	    <th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/CTL/">Complete The Look</a></b></h3> (work in progress) <br> <font size="2.2"><i><h8>Supervised by: <a href = "http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a> - IIT Kharagpur, <a href="https://www.linkedin.com/in/arnab-bhattacharya-26383573/">Dr. Arnab Bhattacharya</a>, <a href="https://www.linkedin.com/in/adityarachakonda/">Dr. Aditya Rachakonda</a> - Flipkart</h8></i></font> <br>
 Recommending fashion-compatible outfits given a 'parent' product and introducing diversity in the outfits generated. [<a href="https://harshm121.github.io/Projects/CTL/">More details here</a>]</th> 
   </tr>
 	
@@ -45,7 +45,7 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 <table style="width:100%;">
   <tr>
     <th width="30%"><a href="https://harshm121.github.io/Projects/covid_forecasting"><img src="./covid_forecasting.png" alt="Forecasting Example" width = "100%"></a></th>
-	  <th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/covid_forecasting">COVID-19 Forecasting</a></b></h3> <font size="2.2"><i><h8> Supervised by:<a href="https://www.linkedin.com/in/srujana-merugu-a7243819/">Dr. Srujana Merugu</a>, <a href="https://www.linkedin.com/in/alpan-raval-36219a2/">Dr. Alpan Raval</a> - Wadhwani AI</h8></i></font><br>
+	  <th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/covid_forecasting">COVID-19 Forecasting</a></b></h3> <font size="2.2"><i><h8> Supervised by: <a href="https://www.linkedin.com/in/srujana-merugu-a7243819/">Dr. Srujana Merugu</a>, <a href="https://www.linkedin.com/in/alpan-raval-36219a2/">Dr. Alpan Raval</a> - Wadhwani AI, <a href="https://www.linkedin.com/in/mohitkum/">Dr. Mohit Kumar</a> - Udaan</h8></i></font><br>
 Created a Machine Learning framework to forecast the upcoming burden on health infrastructure and help public health authorities in planning policies. [<a href="https://harshm121.github.io/Projects/covid_forecasting">More details here</a>] [<a href="https://www.medrxiv.org/content/10.1101/2020.10.19.20215293v1">Extended Abstract</a> published in CoDS-COMAD'21]</th> 
   </tr>
 	
