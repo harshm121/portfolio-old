@@ -20,9 +20,9 @@ title: "Complete The Look"
 
 For product page recommendations for lifestyle product, recommending fashion-compatible products is a great way to inspire users and help them in their purchase journey. Below is the formal problem statement and the work already done (and currently in progress) for Flipkart's Complete The Look
 
-**Problem Statement**: To generate 'fashion-wise' **compatible** and **diverse** outfits for **Indian Users** given a parent product belonging to the parent category and a template (list of categories, e.g.: Parent Category: Tshirts, Child Categories: Jeans, Shoes, Watch)
+**Problem Statement**: To generate 'fashion-wise' **compatible** and **diverse** outfits for **Indian Users** given a parent product belonging to the parent category and a template (list of categories, e.g.: Parent Category: Jeans, Child Categories: Shirt, Shoes, Watch)
 
-**Work Description**: Fashion-compatible outfit generation is a well studied problem in the computer vision community. The most popular dataset, [Polyvore Dataset](https://arxiv.org/pdf/1803.09196.pdf) was collected by users majorly from the western world. After working on the data, we realised that the fashion-compatibility learnt from Polyvore data would be biased towards preferences of the western world and may not be suitable for Indian users. Figure 1 shows one of the many outfits from the Polyvore Dataset. As visible, the outfi is biased towards color based matching which is usually not preferred in India. 
+**Work Description**: Fashion-compatible outfit generation is a well studied problem in the computer vision community. The most popular dataset, [Polyvore Dataset](https://arxiv.org/pdf/1803.09196.pdf) was collected by users majorly from the western world. After working on the data, we realised that the fashion-compatibility learnt from Polyvore data was be biased towards preferences of the western world and not suitable for Indian users. Figure 1 shows one of the many outfits from the Polyvore Dataset. As visible, the outfi is biased towards color based matching which is usually not preferred in India. 
 <figure style="float:left;">
 <img src="https://harshm121.github.io/Projects/polyvore_example.jpeg" alt="Polyvore example" width="20%">
 <br>
