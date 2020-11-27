@@ -26,25 +26,25 @@ Since March 2020, I have also been volunteering my time with [DSIndiaVsCovid](ht
 Broadly my interest lies in Computer Vision, understanding Deep Learning and Machine Learning (theory as well as it's 'impactful' application). I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
 
-## **Research work**:
+## **Projects**:
 
 <font size="3"> 
 <table style="width:100%;">
   <tr>
-    <th width="30%"><a href="https://harshm121.github.io/Projects/CTL/"><img src="./ctl_example.jpeg" alt="CTL Example" height = "40%"></a></th>
+    <th width="30%"><a href="https://harshm121.github.io/Projects/CTL/"><img src="./projects/ctl_example.jpeg" alt="CTL Example" height = "40%"></a></th>
 	    <th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/CTL/">Complete The Look</a></b></h3> <font size="2.2"><i><h8>Supervised by: <a href = "http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a> - IIT Kharagpur, <a href="https://www.linkedin.com/in/arnab-bhattacharya-26383573/">Dr. Arnab Bhattacharya</a>, <a href="https://www.linkedin.com/in/adityarachakonda/">Dr. Aditya Rachakonda</a> - Flipkart</h8></i></font> <br>
 Recommending fashion-compatible outfits given a 'parent' product and introducing diversity in the outfits generated. [<a href="https://harshm121.github.io/Projects/CTL/">More details here</a>]</th> 
   </tr>
 	
 	
   <tr>
-    <th width="30%"><a href="https://harshm121.github.io/Projects/supermart/"><img src="./supermart.png" alt="supermart sugar example" height="80%"></a></th>
+    <th width="30%"><a href="https://harshm121.github.io/Projects/supermart/"><img src="./projects/supermart.png" alt="supermart sugar example" height="80%"></a></th>
 	<th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/supermart/">Audience Creation for Consumables</a></b></h3> <font size="2.2"><i><h8> Supervised by: <a href="https://www.linkedin.com/in/samik-datta-7b2a927a/">Samik Datta</a> - Flipkart</h8></i></font> <br>
 Creating an audience set for a store at Flipkart's Online Grocery marketplace, called Supermart, based on puchase probability by modelling a user's purchase behaviour and periodicity in buying consumables. [<a href="https://harshm121.github.io/Projects/supermart/">More details here</a>] [prepreint: to be released soon]</th> 
   </tr>
 
   <tr>
-    <th width="30%"><img src="./reco.png" alt="Recommendation word cloud" height="80%"></th>
+    <th width="30%"><img src="./projects/reco.png" alt="Recommendation word cloud" height="80%"></th>
 	<th width="70%"><h3><b>Candidate Generation and Ranking</b></h3> <font size="2.2"><i><h8>Supervised by: <a href="https://www.linkedin.com/in/samik-datta-7b2a927a/">Samik Datta</a>, <a href="https://www.linkedin.com/in/adityarachakonda/">Dr. Aditya Rachakonda</a> - Flipkart</h8></i> </font><br>
 		Customized <b>Bayesian Personalised Ranking</b> based Matrix Factorisation framework for Flipkart homepage recommendation (improvement in clicks by 2 bps on Flipkart homepage, currently in larger A/B testing phase) and designed multiple Lamda MART & LR based rankers for Flipkart home and product page.</th> 
   </tr>
