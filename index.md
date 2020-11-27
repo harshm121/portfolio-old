@@ -35,18 +35,18 @@ Broadly my interest lies in Computer Vision, understanding Deep Learning and Mac
 	    <th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/CTL/">Complete The Look</a></b></h3> (work in progress)<br><font size="2.2"><i><h8>Supervised by: <a href = "http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a> - IIT Kharagpur, <a href="https://www.linkedin.com/in/arnab-bhattacharya-26383573/">Dr. Arnab Bhattacharya</a>, <a href="https://www.linkedin.com/in/adityarachakonda/">Dr. Aditya Rachakonda</a> - Flipkart</h8></i></font> <br>
 Recommending fashion-compatible outfits given a 'parent' product and introducing diversity in the outfits generated. [<a href="https://harshm121.github.io/Projects/CTL/">More details here</a>]</th> 
   </tr>
-<tr>
-    <th width="30%"><img src="https://harshm121.github.io/Projects/skinseg.png" alt="Skin segmentation example" width = "100%"></th>
-	  <th width="70%"><h3><b>Skin Segmentation using NIR Images</b></h3> <font size="2.2"><i><h8> Supervised by: <a href="https://sites.google.com/view/prathosh">Prof. Prathosh AP</a> - IIT Delhi </h8></i></font><br>
-The aim of the project was to segment human skin out of Near Infrared Images. Skin segmentation from RGB images is a well studied problem but since many night vision cameras use infrared, segmenting skin from infra red images can be useful. This requires a lot of annotated data which is not available in large amounts. However, RGB images with skin annotations are available abunduntly. Hence to solve the problem of data availability, we first trained a RGB to NIR Transformation using pix2pix type conditional GAN and then trained a skin segmentation on RGB converted to NIR images. </th> 
-  </tr>
-	
 	
   <tr>
     <th width="30%"><img src="https://harshm121.github.io/Projects/boardsnapped.png" alt="Example images" width="100%"></th>
 	<th width="70%"><h3><b>boardSnapped</b></h3> <font size="2.2"><i><h8> Supervised by: <a href="https://sites.google.com/view/prathosh">Prof. Prathosh AP</a> - IIT Delhi </h8></i></font><br>
 	There are a lot of recorded lectures on the internet, but the lectures are usually too long and slow and it is difficult to skim through a video like one would do in notes. We formulated this task to a Machine Learnin task of finding certain key frames from an educational video (NPTEL Videos) which capture all the written content in a video. Thus 1 one hour video can be successfully summarized in about 10 images. [<a href="https://docs.google.com/presentation/d/1hnYlk-_ie_55itjfKPlbFFm5x9woRM1kMJZJNiyOV2I/edit?usp=sharing">Presentation</a>]
 </th> 
+  </tr>
+  
+<tr>
+    <th width="30%"><img src="https://harshm121.github.io/Projects/skinseg.png" alt="Skin segmentation example" width = "100%"></th>
+	  <th width="70%"><h3><b>Skin Segmentation using NIR Images</b></h3> <font size="2.2"><i><h8> Supervised by: <a href="https://sites.google.com/view/prathosh">Prof. Prathosh AP</a> - IIT Delhi </h8></i></font><br>
+The aim of the project was to segment human skin out of Near Infrared Images. Skin segmentation from RGB images is a well studied problem but since many night vision cameras use infrared, segmenting skin from infra red images can be useful. This requires a lot of annotated data which is not available in large amounts. However, RGB images with skin annotations are available abunduntly. Hence to solve the problem of data availability, we first trained a RGB to NIR Transformation using pix2pix type conditional GAN and then trained a skin segmentation on RGB converted to NIR images. </th> 
   </tr>
   
   <tr>
