@@ -12,10 +12,10 @@ title: "Complete The Look"
   gtag('config', 'G-NB6TYSXY61');
 </script>
 </head>
-<figure style="margin-left: auto; display: block; margin-right: auto;" >
-<img src="https://harshm121.github.io/Projects/ctl_example.jpeg" alt="CTL example" width="30%">
+<figure>
+<img style="margin-left: auto; display: block; margin-right: auto;" src="https://harshm121.github.io/Projects/ctl_example.jpeg" alt="CTL example" width="30%">
 <br>
-<figcaption>An example of Complete the look recommendations (representative image)</figcaption>
+<figcaption style="margin-left: auto; display: block; margin-right: auto;">An example of Complete the look recommendations (representative image)</figcaption>
 </figure>
 
 For product page recommendations for lifestyle product, recommending fashion-compatible products is a great way to inspire users and help them in their purchase journey. Below is the formal problem statement and the work already done (and currently in progress) for Flipkart's Complete The Look
