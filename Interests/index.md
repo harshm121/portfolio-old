@@ -13,12 +13,9 @@ title: "Interests"
 </script>
 </head>
 
-## Hi there!
-
-Apart from academics, mathematics and machine learning I like following things:
 
 - Movies
-	1. Pursuit of Happiness
+	1. The Pursuit of Happyness
 	2. Seven Pounds
 	3. Boyhood
 
@@ -31,5 +28,4 @@ Apart from academics, mathematics and machine learning I like following things:
 	2. [The School of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
 	3. [Cinema Beyond Entertainment](https://www.youtube.com/channel/UC9uNpqgB0PfH1-hHQrUWXyw)
 	4. [The Indian Jam Project](https://www.youtube.com/channel/UCbpLD76CnWWZ-JqZ9LjR2Mw)
-	5. [MKBHD](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ)
 
