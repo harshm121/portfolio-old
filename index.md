@@ -113,6 +113,16 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 </details>
 <br>
 
+(4) Sansiddh Jain, Avtansh Tiwari, Nayana Bannur, Ayush Deva, Siddhant Shingi, Vishwa Shah, Mihir Kulkarni, Namrata Deka, Keshav Ramaswami, Vasudha Khare, **Harsh Maheshwari**, Soma Dhavala, Jithin Sreedharan, Jerome White, Srujana Merugu, Alpan Raval, "A Flexible Data- Driven Framework for COVID-19 Case Forecasting Deployed in a Developing- world Public Health Setting",  Under Review at KDD’21: ACM Conference on Knowledge Discovery and Data Mining.
+<details><summary>Abstract</summary>
+<div>
+<p style="background-color:#ffffcc;"> 
+<i>Forecasting infection case counts and estimating accurate epidemiological parameters are critical components of managing the response to a pandemic. This paper describes a modular, extensible framework for a COVID-19 forecasting system, primarily deployed in Mumbai and Jharkhand, India. We employ a variant of the SEIR compartmental model motivated by the nature of the available data and operational constraints. We estimate best fit parameters using Sequential Model-Based Optimization (SMBO), and describe the use of a novel, fast and approximate Bayesian model averaging method (ABMA) for parameter uncertainty estimation that compares well with a more rigorous Markov Chain Monte Carlo (MCMC) approach in practice. We address on-the-ground deployment challenges such as spikes in the reported input data using a novel weighted smoothing method. We describe extensive empirical analyses to evaluate the accuracy of our method on ground truth as well as against other state-of-the-art approaches. Finally, we outline deployment lessons and describe how inferred model parameters were used by government partners to interpret the state of the epidemic and how model forecasts were used to estimate staffing and planning needs essential for addressing COVID-19 hospital burden
+</i>
+</p>
+</div>
+</details>
+<br>
 **Personal Interests:** I like watching and reading biographies and documentaries. I also enjoy surfing YouTube which I feel is an extremely far reaching and impactful platform. I have personally found alot of content which intrigues me. Philosophy and Technology are two domains I find very engaging and am always up for discussing them at lengths.
 
 
