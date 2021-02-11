@@ -21,4 +21,4 @@ Since March-2020, I have been volunteering my free time with a group of amazing 
 Indian regions to forecast the upcoming burden on health infrastructure and plan mobility restriction policies. We created a framework to forecast the infections in an epidemic using SEIR like epidemiological models and a Bayesian Optimization framework to estimate the parameters.
 For forecasts of the infection counts for the next 'k' days, we get less than 10% MAPE error (k=7) for Indian districts.
 
-\[[Extended Abstract](https://dl.acm.org/doi/abs/10.1145/3430984.3431047) published in CODS COMAD 2021\] \[[Preprint](https://www.medrxiv.org/content/10.1101/2020.10.19.20215293v1.full)\]
+\[[Extended Abstract](https://dl.acm.org/doi/abs/10.1145/3430984.3431047) published in CODS COMAD 2021\] \[[Preprint](https://www.medrxiv.org/content/10.1101/2020.10.19.20215293v1.full)\] [Full work under review at KDD'21]
