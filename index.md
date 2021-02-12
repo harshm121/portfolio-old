@@ -33,7 +33,7 @@ Broadly my interest lies in Computer Vision, understanding Deep Learning and Mac
   <tr>
     <th width="30%"><a href="https://harshm121.github.io/Projects/CTL/"><img src="https://harshm121.github.io/Projects/ctl_example.jpeg" alt="CTL Example" height = "20%"></a></th>
 	    <th width="70%"><h3><b><a href="https://harshm121.github.io/Projects/CTL/">Complete The Look</a></b></h3> (work in progress)<br><font size="2.2"><i><h8>Supervised by: <a href = "http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a> - IIT Kharagpur, <a href="https://www.linkedin.com/in/arnab-bhattacharya-26383573/">Dr. Arnab Bhattacharya</a>, <a href="https://www.linkedin.com/in/adityarachakonda/">Dr. Aditya Rachakonda</a> - Flipkart</h8></i></font> <br>
-Recommending fashion-compatible outfits given a 'parent' product and introducing diversity in the outfits generated. [<a href="https://harshm121.github.io/Projects/CTL/">More details here</a>]</th> 
+Recommending fashion-compatible outfits given a 'parent' product and introducing diversity in the outfits generated. [<a href="https://harshm121.github.io/Projects/CTL/">More details here</a>][<a href="https://harshm121.github.io/PDFs/CTL_SelfExplanatory.pdf">Presentation here</a>]</th> 
   </tr>
 	
   <tr>
