@@ -26,6 +26,8 @@ Since March 2020, I have also been volunteering my time with [DSIndiaVsCovid](ht
 Broadly my interest lies in Computer Vision, understanding Deep Learning and Machine Learning (theory as well as it's 'impactful' application). I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
 > "Do we settle for the world as it is, or do we work for the world as it should be?" - Barack Obama
+
+
 ## **Projects**:
 
 <font size="2"> 
