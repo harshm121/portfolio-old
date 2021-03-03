@@ -29,7 +29,7 @@ title: "Publications"
 </details>
 <br>
 
-(2) **Harsh Maheshwari\***, Shreyas Shetty\*, Nayana Bannur, Srujana Merugu, "CoSIR: Managing and Epidemic via Optimal Adaptive Control of Transmission Policy" -   Under review at ACM CHIL \[[preprint](https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v1)\]
+(2) **Harsh Maheshwari\***, Shreyas Shetty\*, Nayana Bannur, Srujana Merugu, "CoSIR: Managing and Epidemic via Optimal Adaptive Control of Transmission Policy" -   Under review at UAI'21 \[[preprint](https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v1)\]
 <details><summary>Abstract</summary>
 <div>
 <p style="background-color:#ffffcc;"> 
