@@ -94,7 +94,20 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 </details>
 <br>
 
-(2) **Harsh Maheshwari\***, Shreyas Shetty\*, Nayana Bannur, Srujana Merugu, "CoSIR: Managing and Epidemic via Optimal Adaptive Control of Transmission Policy" - Under review at UAI'21 \[[preprint](https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v1)\]
+(2) **Harsh Maheshwari\***, Shreyas Shetty\*, Nayana Bannur, Srujana Merugu, "Managing an SIR Epidemic Systemvia Optimal Control of Transmission Rate" - ICLR'21 Workshop MLPCP
+<details><summary>Abstract</summary>
+<div>
+<p style="background-color:#ffffcc;"> 
+<i>Shaping an epidemic with adaptive contact restriction policies has been the holy grail during the COVID-19 pandemic. In this paper, we explore the problem of determining the optimal control policy for transmission rate assuming SIR dynamics. We first demonstrate that the SIR model with infectious patients and susceptible contacts (i.e., product of transmission rate and susceptible population) interpreted as predators and prey respectively maps to a Lotka-Volterra (LV) predator-prey model. The modified SIR system (LVSIR) has a stable equilibrium point, an “energy” conservation property, and exhibits bounded cyclic behaviour similar to an LV system. We exploit this mapping using a control-Lyapunov approach to  design a novel, practical control policy (CoSIR) that nudges the SIR model to the desired equilibrium. Empirical comparison with  periodic lockdowns on simulated and real COVID-19 data demonstrates the efficacy and adaptability of our approach.
+
+</i>
+</p>
+</div>
+</details>
+<br>
+
+
+(3) **Harsh Maheshwari\***, Shreyas Shetty\*, Nayana Bannur, Srujana Merugu, "CoSIR: Optimal control of SIR epi-demic dynamics by mapping to Lotka-Volterra System" - Under review at UAI'21 \[[preprint](https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v1)\]
 <details><summary>Abstract</summary>
 <div>
 <p style="background-color:#ffffcc;"> 
@@ -105,7 +118,7 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 </details>
 <br>
 
-(3) Nayana Bannur, **Harsh Maheshwari**, Sansiddh Jain, Shreyas Shetty, Srujana Merugu, Alpan Raval, "Adaptive COVID-19 Forecasting via Bayesian Optimization", in CoDS-COMAD 2021 \[[paper](https://doi.org/10.1101/2020.10.19.20215293)\]
+(4) Nayana Bannur, **Harsh Maheshwari**, Sansiddh Jain, Shreyas Shetty, Srujana Merugu, Alpan Raval, "Adaptive COVID-19 Forecasting via Bayesian Optimization", in CoDS-COMAD 2021 \[[paper](https://doi.org/10.1101/2020.10.19.20215293)\]
 <details><summary>Abstract</summary>
 <div>
 <p style="background-color:#ffffcc;"> 
@@ -115,7 +128,7 @@ Creating an audience set for a store at Flipkart's Online Grocery marketplace, c
 </details>
 <br>
 
-(4) Sansiddh Jain, Avtansh Tiwari, Nayana Bannur, Ayush Deva, Siddhant Shingi, Vishwa Shah, Mihir Kulkarni, Namrata Deka, Keshav Ramaswami, Vasudha Khare, **Harsh Maheshwari**, Soma Dhavala, Jithin Sreedharan, Jerome White, Srujana Merugu, Alpan Raval, "A Flexible Data- Driven Framework for COVID-19 Case Forecasting Deployed in a Developing- world Public Health Setting",  Under Review at KDD’21: ACM Conference on Knowledge Discovery and Data Mining.
+(5) Sansiddh Jain, Avtansh Tiwari, Nayana Bannur, Ayush Deva, Siddhant Shingi, Vishwa Shah, Mihir Kulkarni, Namrata Deka, Keshav Ramaswami, Vasudha Khare, **Harsh Maheshwari**, Soma Dhavala, Jithin Sreedharan, Jerome White, Srujana Merugu, Alpan Raval, "A Flexible Data- Driven Framework for COVID-19 Case Forecasting Deployed in a Developing- world Public Health Setting",  Under Review at KDD’21: ACM Conference on Knowledge Discovery and Data Mining.
 <details><summary>Abstract</summary>
 <div>
 <p style="background-color:#ffffcc;"> 
